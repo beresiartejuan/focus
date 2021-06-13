@@ -1,0 +1,17 @@
+{
+    "name": "famil/focus",
+    "description": "Page",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juan",
+            "email": "juanberesiarte@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "league/plates": "v3.x-dev",
+        "faapz/pdo": "2.x-dev",
+        "twig/twig": "3.0"
+    }
+}
